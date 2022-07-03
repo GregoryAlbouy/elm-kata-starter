@@ -1,4 +1,4 @@
-module MyKata exposing (..)
+module MyKata exposing (identity)
 
 
 identity : a -> a

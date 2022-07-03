@@ -1,4 +1,4 @@
-module MyKataTests exposing (..)
+module MyKataTests exposing (testIdentity)
 
 import Expect
 import Fuzz exposing (string)
